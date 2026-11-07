@@ -1,8 +1,10 @@
 # Amstonix Technologies 🚀
 
-[[https://img.shields.io/badge/Website-amstonix.com-0052CC?style=flat-square&logo=google-chrome&logoColor=white]](https://amstonix.com)
-[[https://img.shields.io/badge/Live_CRM-Interactive_Demo-10B981?style=flat-square&logo=speedtest&logoColor=white]](https://amstonix.com/live-demo)
-[[https://img.shields.io/badge/Utilities-12_Free_Tools-F59E0B?style=flat-square&logo=w3c&logoColor=white]](https://amstonix.com/tools)
+<p align="left">
+  <a href="https://amstonix.com"><img src="https://img.shields.io/badge/Website-amstonix.com-0052CC?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://amstonix.com/live-demo"><img src="https://img.shields.io/badge/Live_CRM-Interactive_Demo-10B981?style=flat-square&logo=speedtest&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://amstonix.com/tools"><img src="https://img.shields.io/badge/Utilities-12_Free_Tools-F59E0B?style=flat-square&logo=w3c&logoColor=white" alt="Free Tools" /></a>
+</p>
 
 > **Bespoke Software Engineering, Custom CRM Systems & High-Performance Web Architecture**
 
@@ -18,14 +20,16 @@ Welcome to the official GitHub profile for **[Amstonix Technologies](https://ams
 * **In-Browser Utilities:** A suite of 12 client-side, privacy-first business and developer tools.
 
 ### ⚡ Core Technologies & Engineering Stack
-[https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white]
-[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white]
-[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
-[https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D]
-[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white]
-[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white]
-[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white]
-[https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black]
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux VPS" />
+</p>
 
 ---
 
